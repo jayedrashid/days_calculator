@@ -1,2 +1,2 @@
 # age_calculator
-Age Calculator or Day's Difference
+Calendar Days Calculator Between Dates
