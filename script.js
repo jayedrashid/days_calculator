@@ -1,11 +1,3 @@
-//function dateCalculator(date1, date2) {
-  //let firstDate = new Date(date1);
-  //let secondDate = new Date(date2);
-  //let daysBetweenDates = (secondDate.getTime() - firstDate.getTime()) / (1000 * 3600 * 24)  
-  //console.log(daysBetweenDates);
-//}
-//dateCalculator("01/01/2021","01/05/2021");
-
 const firstDate = document.getElementById('date-1');
 const secondDate = document.getElementById('date-2');
 
